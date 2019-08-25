@@ -1,0 +1,25 @@
+
+1th Step Pivoting : 
+
+	Row interchange: 1 <-> 1
+	Column interchange: 1 <-> 1
+
+2th Step Pivoting : 
+
+	Row interchange: 2 <-> 3
+	Column interchange: 2 <-> 3
+
+3th Step Pivoting : 
+
+	Row interchange: 3 <-> 3
+	Column interchange: 3 <-> 3
+
+L is 
+	1.000000	0.000000	0.000000	
+	-0.259968	1.000000	0.000000	
+	0.324451	0.257003	1.000000	
+
+U is 
+	9.374600	-2.437100	3.041600	
+	0.000000	7.809331	2.007020	
+	0.000000	0.000000	4.680540	
